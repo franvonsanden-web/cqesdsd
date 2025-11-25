@@ -1,0 +1,5 @@
+{
+  "name": "SonicForge AI Studio",
+  "description": "A professional-grade AI audio studio allowing users to upload tracks, separate stems, and transform audio styles using Gemini's advanced multimodal capabilities.",
+  "requestFramePermissions": []
+}
